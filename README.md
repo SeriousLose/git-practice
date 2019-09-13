@@ -4,3 +4,6 @@ git练习
 v1.1.1修复版本
 long1
 v.1.2.1修复bug
+
+git-flow
+new1新功能的开发
